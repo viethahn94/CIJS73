@@ -1,0 +1,15 @@
+.input {
+    display: flex;
+}
+
+.error {
+    color: red;
+}
+
+.d-none {
+    display: none;
+}
+
+.prime-item {
+    padding: 0 10px;
+}
